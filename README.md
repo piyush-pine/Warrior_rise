@@ -14,7 +14,7 @@ A Python class-based game that simulates a warrior's journey through battles and
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your_username/warrior-game.git
+   git clone[ https://github.com/piyush-pine/Warrior_rise.git
    cd warrior-game
    ```
 
